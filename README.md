@@ -1,1 +1,1 @@
-# java_color_picker
+This is java color picker program 
